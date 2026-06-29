@@ -1,3 +1,5 @@
+<img width="1900" height="890" alt="Знімок екрана 2026-06-23 220314 — копия" src="https://github.com/user-attachments/assets/22a194a5-ee90-4cc2-9208-916aaa94896b" />
+
 # 💡МЕТА: 
 * Це проста соцмережа, щоб зручно спілкуватися та знаходити нові стосунки та и просто чатитися з друзями 
 ## Що тут можна робити:
@@ -34,6 +36,23 @@
 ## Инструменти:
 * python-dotenv: Допомагає безпечно зберігати паролі та ключі (API keys) окремо від коду.
 
+# як запустити проект
+* заходемо на гіт репозиторе и там буде зелена кнопочка далі робіть як на відео
+<img width="500" height="250" alt="mykytenko-petro_WorldITSocialNetwork-at-Mykytenko-Google-Chrome-2026-06-23-22-18-28" src="https://github.com/user-attachments/assets/7ceba3e4-c898-40ac-b076-168319de8b49" />
+
+
+* далі заходемо в пусту папку и відкриваемо терминал
+<img width="500" height="250" alt="mykytenko-petro_WorldITSocialNetwork-at-Mykytenko-Google-Chrome-2026-06-23-22-18-28" src="https://github.com/user-attachments/assets/62b8a870-b15b-4490-8046-b311cf59eabd" />
+
+
+* далі ми відкриваемо Bash терминал и пишемо git clone и вставляемо нашу силку
+<img width="500" height="250" alt="Welcome-Новая-папка-Visual-Studio-Code-2026-06-23-22-36-02-_online-video-cutter com_" src="https://github.com/user-attachments/assets/137393c4-87f9-41d1-841d-428d49145e9d" />
+
+* далі ми пишемо python -m venv venv далі ми пишемо pip install -r reqirements.txt
+* далі ми просто пишемо cd WorldITSocialNetwork и далі ми ми пишемо python manage.py runserver
+
+
+
 # Висновок :
 ## Чого я навчився:
-* я навчився правильно користуватися джанго більше почав розуміти як пишуться моделі також я більше почав понимати як писати js також я дуже добре почав писати стили в css 
+* я навчився правильно користуватися джанго більше почав розуміти як пишуться моделі також я більше почав понимати як писати js також я дуже добре почав писати стили в css саме головніше чого я навчився це як користуватися WebSocket и що таке канали та як ими користуватися 
